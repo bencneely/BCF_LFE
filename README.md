@@ -1,0 +1,1 @@
+This repository contains data and code for a manuscript titled "Assessing sampling effort for lentic Blue Catfish populations using low-frequency electrofishing" submitted to North American Journal of Fisheries Management.
